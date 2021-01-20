@@ -249,6 +249,7 @@ export default {
   mounted () {
     // 点击页面除终端区域时解除激活状态
     window.addEventListener('click', this.unactivate)
+    this.focusInput()
   },
   beforeDestroy () {
     window.removeEventListener('click', this.unactivate)
