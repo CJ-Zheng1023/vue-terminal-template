@@ -846,10 +846,10 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@cj_zheng1023/vue2-contextmenu@^0.2.6":
-  version "0.2.6"
-  resolved "https://registry.yarnpkg.com/@cj_zheng1023/vue2-contextmenu/-/vue2-contextmenu-0.2.6.tgz#b19152826d354e733d5d8adab365863d6f2f1514"
-  integrity sha512-WiomL1Rv4UXoT8n0BfB/6Rq/nFWzP452t0/ZAK/Su5EUHbeyzPi7n05HGYMggrSBQ8PbNHGNyl9g2aPLmtONKA==
+"@cj_zheng1023/vue2-contextmenu@^0.3.0":
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/@cj_zheng1023/vue2-contextmenu/-/vue2-contextmenu-0.3.0.tgz#2f4e60c0935cc94b2f965743a27e010818afdedb"
+  integrity sha512-qBGKIcJ+0MG27Zgwkq9mKezkVM0r5sl6qiPXWM+WGdcnpXDH5JrRPyhYrHE8WWjDNioAzJbwmfZ3pvSwEqlrhg==
   dependencies:
     core-js "^3.6.5"
     vue "^2.6.11"
